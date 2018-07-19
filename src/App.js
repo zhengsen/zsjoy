@@ -1,14 +1,12 @@
 import React, {Component} from 'react';
 import './App.css';
-import Button from '@material-ui/core/Button'
+import DenseAppBar from './components/DenseAppBar'
 
 class App extends Component {
     render() {
         return (
             <div className="App">
-                <Button variant='raised' color='primary'>
-                    hi
-                </Button>
+                <DenseAppBar/>
             </div>
         );
     }
