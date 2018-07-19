@@ -27,7 +27,7 @@ function DenseAppBar(props) {
                         <MenuIcon/>
                     </IconButton>
                     <Typography variant="title" color="inherit">
-                        Wood.s木屋
+                        celine小木屋
                     </Typography>
                 </Toolbar>
             </AppBar>
