@@ -35,7 +35,7 @@ function DenseAppBar(props) {
                     </Typography>
                 </Toolbar>
             </AppBar>
-            <MainMenuDrawer/>
+            <MainMenuDrawer />
         </div>
     );
 }
